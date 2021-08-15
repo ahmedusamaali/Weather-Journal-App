@@ -1,0 +1,16 @@
+{
+    "name": "weather-journal-app",
+    "version": "1.0.0",
+    "description": "this is weather journal app pachage.json",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo\"error:no test spisfcation\" && exit=1",
+        "start": "node server.js"
+    },
+    "author": "ahmed usama",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1"
+    }
+}
